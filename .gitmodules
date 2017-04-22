@@ -12,7 +12,7 @@
 	branch = gh-pages
 [submodule "40423128"]
 	path = 40423128
-	url = https://github.com/40423128/2017cpringcd_hw
+	url = https://github.com/40423128/2017springcd_hw
 	branch = gh-pages
 [submodule "40443111"]
 	path = 40443111
